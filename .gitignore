@@ -32,11 +32,9 @@ Git_token.txt
 # ===============================
 # NOTEBOOK CHECKPOINTS
 # ===============================
-.ipynb_checkpoints/
 
 # OS
 .DS_Store
 Papers/
 __pycache__/
-major.ipynb
 Pre_processing.py
