@@ -36,3 +36,7 @@ Git_token.txt
 
 # OS
 .DS_Store
+Papers/
+__pycache__/
+major.ipynb
+Pre_processing.py
